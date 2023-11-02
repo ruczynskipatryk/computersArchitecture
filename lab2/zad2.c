@@ -12,6 +12,8 @@ void binarySubtraction(int operand1[], int operand2[], int result[], int n) {
 
 }
 
+
+
 int main() {
     int n; // liczba bitów
     printf("Podaj liczbę bitów (od 8 do 128): ");
