@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdint.h>
+#include <string.h>
 
 // Funkcja konwertująca liczbę dziesiętną na format IEEE 754
 uint32_t floatToIEEE754(float num) {
